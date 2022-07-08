@@ -6,6 +6,9 @@ class Calculator():
     return self.x+self.y
    def sub(self):
     return self.x-self.y
+   def mul(self):
+    return self.x*self.y 
 obj=Calculator(3,6)
 print('adding values',obj.addition())
 print(obj.sub())
+print(obj.mul())
