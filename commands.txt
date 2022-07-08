@@ -1,0 +1,152 @@
+    1  git init
+    2  git init
+    3  ls -al
+    4  ls .git
+    5  git init
+    6  git init
+    7  touch file1
+    8  git status
+    9  git commit -m "file1"
+   10  git status
+   11  git commit -m
+   12  git commit -m "file!"
+   13  git status
+   14  git status
+   15  touch file2
+   16  git status
+   17  git add file2
+   18  git status
+   19  git commit -m "file!"
+   20  git status
+   21  git status
+   22  ls
+   23  git restore
+   24  ls-al
+   25  ls -al
+   26  git config --global user.email "lakshmiavinigonda124@gmail.com"
+   27  git config --global user.name "lakshmi0311"
+   28  git config --global user.name "Lakshmi0311"
+   29  touch file3
+   30  git add file3
+   31  git commit -m "firstcommit"
+   32  git branch -M main
+   33  git remote add origin https://github.com/Lakshmi0311/demo.git
+   34  git push -u origin main
+   35  git push -u origin main
+   36  git push -u origin main
+   37  code .
+   38  touch app.py
+   39  code .
+   40  text.py
+   41  test.py
+   42  test.py
+   43  app.py
+   44  touch app.py
+   45  touch test.py
+   46  touch file
+   47  touch file2
+   48  git init
+   49  touch app.py
+   50  touch file1
+   51  touch test.py
+   52  code .
+   53  git init
+   54  ls
+   55  ls -al
+   56  touch files
+   57  ls-al
+   58  ls -al
+   59  git status
+   60  touch app1.py
+   61  touch test1.py
+   62  code .
+   63  touch gitignore.py
+   64   touch gitignore.py
+   65  touch .gitignore
+   66  git status
+   67  ls -al
+   68  ls -al
+   69  git status
+   70  git status
+   71  git status
+   72  git add*
+   73  git add *
+   74  git status
+   75  git checkout -b  Kalyani
+   76  git commit -m "kalanifiles"
+   77  git status
+   78  git log
+   79  git push -u origin Kalyani
+   80  git push -u origin Kalyani
+   81  git branch
+   82  git remote add origin https://github.com/Lakshmi0311/demo.git
+   83  git push -u origin Kalyani
+   84  git chechout -b naveen
+   85  git  checkout -b naveen
+   86  git status
+   87  git status
+   88  ls -al
+   89  git add README.md
+   90  git add README.md
+   91  git status
+   92  git commit -m "readme file"
+   93  git push -u origin Kalyani
+   94  git branch -b Kalyani
+   95  git log
+   96  $ git remote add origin https://github.com/Lakshmi0311/demo.git
+   97  $ git remote add origin https://github.com/Lakshmi0311/demo.git
+   98  git branch
+   99  git status
+  100  git add *
+  101  git status
+  102  git commit -m "naveen"
+  103  git push -u origin naveen
+  104  git status
+  105  git pull origin naveen
+  106  git status
+  107  git add *
+  108  git status
+  109  git commit
+  110  git push -u origin naveen
+  111  git checkout naveen
+  112  ls -al
+  113  git checkout Kalyani
+  114  git checkout main
+  115  git checkout Main
+  116  history > commands.txt
+  117  git status
+  118  git commit -m "commands"
+  119  git log
+  120  git checkout Main
+  121  git checkout main
+  122  git checkou -b main
+  123  git checkout -b main
+  124  git checkout naveen
+  125  git checkout main
+  126  git log
+  127  git add *
+  128  git status
+  129  git commit -m "commands"
+  130  git push -u main
+  131  git origin main
+  132  git remote add origin https://github.com/Lakshmi0311/demo.git
+  133  git push -u origin main
+  134  git push -u origin
+  135  rm -r command
+  136  git restore commands
+  137  history >commands.txt
+  138  git status
+  139  git log
+  140  git checkout kalyani
+  141  git checkout Kalyani
+  142  git commit -m "commands"
+  143  add file*
+  144  git commit -m "commands"
+  145  git add *
+  146  git commit -m "commands"
+  147  git push -u 
+  148  git log
+  149  git push -u main
+  150  git checkout main 
+  151  git checkout Kalyani
+  152  history > commands.txt
