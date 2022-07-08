@@ -10,5 +10,5 @@ class Calculator():
     return self.x*self.y 
 obj=Calculator(3,6)
 print('adding values',obj.addition())
-print(obj.sub())
-print(obj.mul())
+print('subtract values',obj.sub())
+print('multyply values',obj.mul())
