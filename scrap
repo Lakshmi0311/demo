@@ -1,0 +1,13 @@
+#pandas is import as pd
+import pandas as pd
+#using pandas csv file is read
+file=pd.read_csv("D:\pythonNots\Amazon Scraping - Sheet1.csv")
+#by using isnull function checking any null values in this file
+print(file.isnull().sum())
+#using head only get 100 rows from thousand lines of file 
+file1=file.head(100)
+#by using for loop print 100 urls
+for i in range(0,100): 
+    c=(file1['country'][i])
+    d=(file1['Asin'][i])
+    print(f"https://www.amazon.{c}/dp/{d}")
